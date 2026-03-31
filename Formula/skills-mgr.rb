@@ -1,10 +1,10 @@
 class SkillsMgr < Formula
-  desc "Universal TUI/CLI for managing AI coding tool skills"
+  desc "Universal TUI/CLI for managing AI coding tool skills across 19 agents"
   homepage "https://github.com/daviiabreu/skills-mgr"
-  url "https://github.com/daviiabreu/skills-mgr/releases/download/v2.0.0/skills-mgr"
-  sha256 "c3f0e883974f61cf98d9062dfa0778ec98421a3f58f49f54d2aa16c74d95104f"
+  url "https://github.com/daviiabreu/skills-mgr/releases/download/v2.2.0/skills-mgr"
+  sha256 "7ce3a1189c54311470db9e90f646d773f12906c56e01553e4176af8e0e0abe0c"
   license "MIT"
-  version "2.0.0"
+  version "2.2.0"
 
   depends_on "gum"
 
